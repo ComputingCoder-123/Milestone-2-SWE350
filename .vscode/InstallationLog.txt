@@ -1,0 +1,170 @@
+************************************* Invoked: Sun Oct 18 19:19:41 2026
+[0] Arguments: C:\Users\ADMIN\Downloads\msys2-x86_64-20260927.exe
+[5] Operations sanity check succeeded.
+[10] Using metadata cache from "C:/Users/ADMIN/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[10] Found 0 cached items.
+[11] Language: en-Latn-US
+[236] Loaded control script ":/metadata/installer-config/control_js"
+[236] Using control script: ":/metadata/installer-config/control_js"
+[2602] Loading component scripts...
+[34079] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[64533] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[75866] OverwriteTargetDirectory : Warning : You have selected an existing, non-empty directory for installation.
+Note that it will be completely wiped on uninstallation of this application.
+It is not advisable to install into this directory as installation might fail.
+Do you want to continue? Yes|No
+[112917] backup  operation: Mkdir
+[112917] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode
+[112918] Done
+[112919] perform  operation: Mkdir
+[112919] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode
+[112920] Done
+[112921] Preparing the installation...
+[112922] Install size: 1 components
+[112947] Preparing to unpack components...
+[112949] backup com.msys2.root concurrent operation: Extract
+[112949] 	- arguments: installer://com.msys2.root/20260927msys64.7z, C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode
+[112949] Started
+[113340] Unpacking components...
+[113340] perform com.msys2.root concurrent operation: Extract
+[113340] 	- arguments: installer://com.msys2.root/20260927msys64.7z, C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode
+[113340] Started
+[131043] Installing component MSYS2
+[131043] backup com.msys2.root operation: CreateShortcut
+[131043] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/mingw64.exe, C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code/MSYS2 MINGW64.lnk, iconPath=C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/mingw64.exe
+[131044] Done
+[131044] perform com.msys2.root operation: CreateShortcut
+[131044] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/mingw64.exe, C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code/MSYS2 MINGW64.lnk
+[131132] Done
+[131132] backup com.msys2.root operation: CreateShortcut
+[131132] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/ucrt64.exe, C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code/MSYS2 UCRT64.lnk, iconPath=C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/ucrt64.exe
+[131132] Done
+[131133] perform com.msys2.root operation: CreateShortcut
+[131133] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/ucrt64.exe, C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code/MSYS2 UCRT64.lnk
+[131193] Done
+[131193] backup com.msys2.root operation: CreateShortcut
+[131193] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/clang64.exe, C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code/MSYS2 CLANG64.lnk, iconPath=C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/clang64.exe
+[131193] Done
+[131193] perform com.msys2.root operation: CreateShortcut
+[131193] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/clang64.exe, C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code/MSYS2 CLANG64.lnk
+[131254] Done
+[131254] backup com.msys2.root operation: CreateShortcut
+[131254] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/clangarm64.exe, C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code/MSYS2 CLANGARM64.lnk, iconPath=C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/clangarm64.exe
+[131254] Done
+[131254] perform com.msys2.root operation: CreateShortcut
+[131254] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/clangarm64.exe, C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code/MSYS2 CLANGARM64.lnk
+[131314] Done
+[131315] backup com.msys2.root operation: CreateShortcut
+[131315] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/msys2.exe, C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code/MSYS2 MSYS.lnk, iconPath=C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/msys2.exe
+[131315] Done
+[131315] perform com.msys2.root operation: CreateShortcut
+[131315] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/msys2.exe, C:\Users\ADMIN\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Visual Studio Code/MSYS2 MSYS.lnk
+[131375] Done
+[131375] backup com.msys2.root operation: Execute
+[131376] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode\usr\bin\bash.exe, --login, -c, exit
+[131376] Done
+[131377] perform com.msys2.root operation: Execute
+[131378] 	- arguments: C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode\usr\bin\bash.exe, --login, -c, exit
+[132686] C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode\\usr\\bin\\bash.exe" started, arguments: "--login -c exit
+[134839] Copying skeleton files.\nThese files are for the users to personalise their msys2 experience.\n\nThey will never be overwritten nor automatically updated.\n\n
+[135797] './.bashrc' -> '/home/ADMIN/.bashrc'\n
+[135872] './.bash_profile' -> '/home/ADMIN/.bash_profile'\n
+[135948] './.profile' -> '/home/ADMIN/.profile'\n
+[136694] 'C:\\WINDOWS\\system32\\drivers\\etc\\hosts' -> '/etc/hosts'\n
+[136977] 'C:\\WINDOWS\\system32\\drivers\\etc\\protocol' -> '/etc/protocols'\n
+[137214] 'C:\\WINDOWS\\system32\\drivers\\etc\\services' -> '/etc/services'\n
+[137414] 'C:\\WINDOWS\\system32\\drivers\\etc\\networks' -> '/etc/networks'\n
+[143115] ==> Generating pacman master key. This may take some time.\n
+[144196] ==> Updating trust database...\n
+[144494] ==> Appending keys from msys2.gpg...\n
+[145606] ==> Locally signing trusted keys in keyring...\n
+[146499]   -> Locally signed 5 keys.\n
+[146528] ==> Importing owner trust values...\n
+[146605] ==> Disabling revoked keys in keyring...\n
+[147010]   -> Disabled 4 keys.\n
+[147038] ==> Updating trust database...\n
+[173309] Warning: [1;32mMSYS2 is starting for the first time. Executing the initial setup.[1;0m
+gpg: /etc/pacman.d/gnupg/trustdb.gpg: trustdb created
+gpg: no ultimately trusted keys found
+gpg: starting migration from earlier GnuPG versions
+gpg: porting secret keys from '/etc/pacman.d/gnupg/secring.gpg' to gpg-agent
+gpg: migration succeeded
+gpg: Generating pacman keyring master key...
+gpg: directory '/etc/pacman.d/gnupg/openpgp-revocs.d' created
+gpg: revocation certificate stored as '/etc/pacman.d/gnupg/openpgp-revocs.d/276B8EE8CDF79812063EDBBA5DC36B961F176DEC.rev'
+gpg: Done
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: setting ownertrust to 4
+gpg: setting ownertrust to 4
+gpg: setting ownertrust to 4
+gpg: setting ownertrust to 4
+gpg: setting ownertrust to 4
+gpg: marginals needed: 3  completes needed: 1  trust model: pgp
+gpg: depth: 0  valid:   1  signed:   5  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: depth: 1  valid:   5  signed:   7  trust: 0-, 0q, 0n, 5m, 0f, 0u
+gpg: depth: 2  valid:   4  signed:   2  trust: 4-, 0q, 0n, 0m, 0f, 0u
+gpg: next trustdb check due at 2027-02-10
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key F40D263ECA25678A: "Alexey Pavlov (Alexpux) <alexey.pawlow@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key 790AE56A1D3CFDDC: "David Macek (MSYS2 master key) <david.macek.0@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key DA7EF2ABAEEA755C: "Martell Malone (martell) <martellmalone@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key 755B8182ACD22879: "Christoph Reiter (MSYS2 master key) <reiter.christoph@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key 9F418C233E652008: "Ignacio Casal Quinteiro <icquinteiro@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key BBE514E53E0D0813: "Ray Donnelly (MSYS2 Developer - master key) <mingw.android@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key 5F92EFC1A47D45A1: "Alexey Pavlov (Alexpux) <alexpux@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key 974C8BE49078F532: "David Macek <david.macek.0@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key FA11531AA0AA7F57: "Christoph Reiter (MSYS2 development key) <reiter.christoph@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key 794DCF97F93FC717: "Martell Malone (martell) <me@martellmalone.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key D595C9AB2C51581E: "Martell Malone (MSYS2 Developer) <martellmalone@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+gpg: refreshing 1 key from hkps://keyserver.ubuntu.com
+gpg: key 4DF3B7664CA56930: "Ray Donnelly (MSYS2 Developer) <mingw.android@gmail.com>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+[1;32mInitial setup complete. MSYS2 is now ready to use.[1;0m
+
+[173309] Done
+[173322] Writing maintenance tool: "C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/uninstall.exe.new"
+[173322] Writing maintenance tool.
+[173523] Wrote permissions for maintenance tool.
+[173691] Maintenance tool hard restart: false.
+[173696] Installation finished!
+[178938] starting "C:/Users/ADMIN/OneDrive/Desktop/SWE-350/.vscode/ucrt64.exe" QList()
