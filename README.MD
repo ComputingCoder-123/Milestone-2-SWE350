@@ -9,7 +9,7 @@ This repository contains the C source code for Milestone 2. The application impl
 
 ## Deliverable Links
 - **GitHub Repository:** https://github.com/ComputingCoder-123/Milestone-2.git
-- **Demonstration Screencast:** https://youtube.com/your-video-link-or-loom-link
+- **Demonstration Screencast:** https://docs.google.com/videos/u/0/d/1oRfiIhy0nkfpQvW6-ItEUNkc08W1Z4GNyupkVJVUz5I/play?usp=chrome_extension_sharing 
 
 ## Project Structure
 - `main.c`: Primary C source file containing bitwise algorithms and test suite execution.
